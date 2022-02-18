@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/bulldogslucky13/cs4273-sms-g16#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "twilio": "^3.74.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
